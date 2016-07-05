@@ -6,9 +6,19 @@ public class A {
 	private float A2;
 	
 	private int A3;
+	
+	private String Aramo4;
 
 	public int getA3() {
 		return A3;
+	}
+
+	public String getAramo4() {
+		return Aramo4;
+	}
+
+	public void setAramo4(String aramo4) {
+		Aramo4 = aramo4;
 	}
 
 	public void setA3(int a3) {
