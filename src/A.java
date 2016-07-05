@@ -4,6 +4,16 @@ public class A {
 	private int A1;
 	
 	private int A2;
+	
+	private int A3;
+
+	public int getA3() {
+		return A3;
+	}
+
+	public void setA3(int a3) {
+		A3 = a3;
+	}
 
 	public int getA1() {
 		return A1;
