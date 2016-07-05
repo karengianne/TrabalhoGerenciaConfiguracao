@@ -3,7 +3,7 @@ public class A {
 	
 	private int A1;
 	
-	private int A2;
+	private float A2;
 	
 	private int A3;
 
@@ -23,11 +23,11 @@ public class A {
 		A1 = a1;
 	}
 
-	public int getA2() {
+	public float getA2() {
 		return A2;
 	}
 
-	public void setA2(int a2) {
+	public void setA2(float a2) {
 		A2 = a2;
 	}
 
