@@ -30,6 +30,10 @@ public class A {
 	public void setA2(float a2) {
 		A2 = a2;
 	}
+	
+	public float somaAtributos() {
+		return A1 + A2 + A3;
+	}
 
 	/**
 	 * @param args
